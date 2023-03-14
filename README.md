@@ -1,5 +1,11 @@
 # ToDoPython
-Esta aplicação tem o objetivo de registrar tarefas para serem feitas (To Do), e ainda, descrever o progresso de cada tarefa.
+
+ToDo: Uma aplicação de lista de coisas a fazer utilizando python, com o intuito de explorar tecnologias e padrões de projeto. 
+O projeto é um exemplo, um estudo de caso, para utilização de arquitetura de camadas (Onion Architecture), especificamente no 
+padrão de 3 camadas. A camada externa, de apresentação, utiliza PySimpleGUI, enquanto as outras camadas não utilizam nenhum 
+framework. O banco de dados foi simulado em memoria.
+
+Presentation Layer (PySimpleGUI) -> Service Layer (RN) -> Data Access Layer (Banco em Memoria)
 
 Deste modo criou-se entidades, formadas por uma classe de tarefas e outra de progresso. Como o intuíto deste código é apenas
 aplicar as metodologias de arquitetura de Onion Layer, príncipios Solid e Clean Code, não foi utilizado um banco de dados em SQL, 
