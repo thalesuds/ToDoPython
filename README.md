@@ -14,7 +14,7 @@ de Serviço, uma para tarefas, sendo outra para progresso.
 Uma vez que a camada de Apresentação estava concluída, ficou completa a estruturação a arquitetura Onion, onde o fluxo de informação
 dentro do software se dava pela seguinte forma:
 
-![image](https://user-images.githubusercontent.com/103439806/225071645-21faf53d-0cf5-438a-a64d-d847a147a9da.png)
+![image](https://user-images.githubusercontent.com/103439806/225080069-05d348db-1c2e-4aaa-b63d-6214dc376782.png)
 
 Como o objetivo aqui era o aprendizado das metodologias descritas acima, não foi dado grande ênfase no stack de back-end. 
 
