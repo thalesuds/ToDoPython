@@ -30,3 +30,8 @@ E assim, ficou a interface para as tarefas.
 
 Veja, é possível que o usário salve, delete e adicione progresso as tarefas, sendo que a janela de progressos ficou assim:
 ![image](https://user-images.githubusercontent.com/103439806/225072491-f885083f-a03a-4e2f-b17d-65619678734d.png)
+
+Referências:
+- Clean Code (https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- Design Pattenrs - (https://refactoring.guru/design-patterns)
+- Onion Architecture (https://www.codeguru.com/csharp/understanding-onion-architecture/)
